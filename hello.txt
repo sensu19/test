@@ -15,6 +15,13 @@ int max(int x,int y){
 	return x>y?x:y;
 }
 
+//test
+
+int hello()
+{
+  printf("123");
+}
+
 int main(){
  printf("%s","mac load"); 
  return 0;
