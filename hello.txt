@@ -11,16 +11,9 @@ int min(int x,int y){
 	return x<y?x:y;
 }
 
-int max(int x,int y){
-	return x<y?x:y;
-}
-
-//test
-
-int hello()
+int max(int x,int y)
 {
-  cout<<"123"<<endl;
-  printf("123");
+   printf("sadasdada");
 }
 
 int main(){
