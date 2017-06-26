@@ -17,6 +17,11 @@ int max(int x,int y)
    return 0;
 }
 
+void out(){
+   printf("welcome to git");
+
+}
+
 void print(std::string str){
    cout<<"hello"<<endl;
 }
