@@ -24,6 +24,11 @@ void print()
     
 }
 
+void out(){
+   printf("welcome to git");
+
+}
+
 void print(std::string str){
    cout<<"hello"<<endl;
 }
