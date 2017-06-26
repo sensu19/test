@@ -9,7 +9,7 @@ int sum(int x.int y){
 
 int min(int x,int y)
 {	
-    return x>y?x:y;
+    return x<y?x:y;
 }
 
 int max(int x,int y)
@@ -24,14 +24,6 @@ void print()
     
 }
 
-void out(){
-   printf("welcome to git");
-
-}
-
-void print(std::string str){
-   cout<<"hello"<<endl;
-}
 int main(){
  printf("%s","mac load"); 
  return 0;
