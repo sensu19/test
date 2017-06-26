@@ -21,6 +21,7 @@ int max(int x,int y)
 void print()
 {
     cout<<"susen welcome to git"<<end;
+    
 }
 
 void print(std::string str){
